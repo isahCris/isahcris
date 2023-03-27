@@ -6,9 +6,9 @@
 - ⚡ Fun fact: Gosto de desenhar
 
  <div align="center">
-  <a href="https://github.com/isahcris">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=du4ards09&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=du4ards09&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/isahCris">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isahCris&show_icons=true&theme=black&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isahCris&layout=compact&langs_count=7&theme=black"/>
 </div>
 
  
@@ -28,16 +28,10 @@
 ### Sistemas Operacionais:
 
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-<div style="display: inline_block"><br>
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/111713157/202585100-bb307b98-94c8-48c7-8a25-d9864f079e0b.png">
-</div>
    
    ##
  <div>
-   <a href="https://www.instagram.com/du4ards_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href = "mailto:mariaeduardaaraujodelima1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://twitter.com/du4ardalima"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a><a href="https://www.linkedin.com/in/maria-eduarda-lima-833829264/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin"></a>
-  
+   <a href = "mailto:i.neguinhagodoi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </div>
 
  ![Snake animation](https://github.com/du4ards09/du4ards09/blob/output/github-contribution-grid-snake.svg)
